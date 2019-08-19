@@ -20,7 +20,7 @@ int main() {
 
     int count = 100;
     int operation;
-    auto *machine = new Machine(1);
+    auto *machine = new Machine(2);
     while(count--) {
         cout << "Ö½½íÊý£º" << machine->getCount() << endl;
         cin >> operation;

@@ -25,8 +25,8 @@ class SoldOutState : public State {//Ö½½íÊÛÍê×´Ì¬
 private:
     Machine *machine;
 public:
-    explicit SoldOutState(Machine *machine1) {
-        this->machine = machine1;
+    explicit SoldOutState(Machine *machine) {
+        this->machine = machine;
     }
 
     void insertQuarter() override;
