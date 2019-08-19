@@ -2,8 +2,8 @@
 // Created by Racso on 2019/8/13.
 //
 
-#ifndef TEST_MACHINE_H
-#define TEST_MACHINE_H
+#ifndef STATE_PATTERN_MACHINE_H
+#define STATE_PATTERN_MACHINE_H
 
 #include<iostream>
 
@@ -131,4 +131,4 @@ public:
 };
 
 
-#endif //TEST_MACHINE_H
+#endif //STATE_PATTERN_MACHINE_H

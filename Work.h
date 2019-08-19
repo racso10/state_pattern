@@ -2,8 +2,8 @@
 // Created by Racso on 2019/8/13.
 //
 
-#ifndef TEST_WORK_H
-#define TEST_WORK_H
+#ifndef STATE_PATTERN_WORK_H
+#define STATE_PATTERN_WORK_H
 
 
 class Work {
@@ -21,4 +21,4 @@ public:
 };
 
 
-#endif //TEST_WORK_H
+#endif //STATE_PATTERN_WORK_H
